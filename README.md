@@ -1,5 +1,6 @@
 # Amazon Sales Dashboard (India)
-
+## Dashboard Preview
+![Dashboard Preview](Amazon_sales_dashboard.png)
 ## Project Overview
 This project presents an interactive Amazon India Sales Dashboard developed using Tableau. The dashboard provides insights into sales trends, product performance, shipping status, and regional sales distribution.
 
